@@ -115,7 +115,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Mohammad Reza Akbari 🎧](https://github.com/mra-ak)
 -[HyperPiggyMan](109302067@nccu)
 -[Juli Sahakyan](https://github.com/juliasahakyan)
--George Dall
+-[George Dall]
 -[Ankit Singh](https://github.com/AnkitSin24)
 -[Carolina Avendaño](https://github.com/Carolinaavendanoq)
 - [Giovane Aguiar](https://github.com/giovane-aG)
